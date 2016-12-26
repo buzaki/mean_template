@@ -1,0 +1,12 @@
+# pm2 tools for restarting nodeJS app and run it in background
+npm install -g pm2 
+pm2 start files.js --name="appName"
+pm2 save
+pm2 restart appName
+
+
+# nodemon tool for autorestart nodejs in any changes in app.js
+npm install -g nodemon
+
+
+

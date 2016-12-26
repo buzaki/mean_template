@@ -1,0 +1,19 @@
+{
+  "name": "mean_template",
+  "version": "1.0.0",
+  "description": "Templates for MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzaki/mean_template.git"
+  },
+  "author": "Mohamed Zaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzaki/mean_template/issues"
+  },
+  "homepage": "https://github.com/buzaki/mean_template#readme"
+}

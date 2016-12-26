@@ -1,0 +1,9 @@
+# Centos System
+
+
+# install nodejs
+curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
+yum -y install nodejs
+
+## update npm
+npm install -g npm
